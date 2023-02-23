@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://noals.de/index.html</loc>
+    <lastmod>2023-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://noals.de/images/noals_logo_schwarz_png.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://noals.de/images/arrow.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://noals.de/images/-whonoals_lightyellow.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://noals.de/about-us.html</loc>
+    <lastmod>2023-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://noals.de/images/noals_logo_schwarz_png.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://noals.de/contact-us.html</loc>
+    <lastmod>2023-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://noals.de/images/noals_logo_schwarz_png.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://noals.de/assets/noals_02.mp4</loc>
+    <lastmod>2023-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
